@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+
+span{
+    color:blue;
+    /* background-color: rgb(21, 24, 228); */
+    
+}
+
+.header{
+    width: 145px;
+    height: 31px;
+}
