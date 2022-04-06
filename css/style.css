@@ -14,3 +14,9 @@ span{
     height: 31px;
 }
 
+.header:focus,
+.header:hover{
+    color: white;
+    background-color: blue;
+}
+
