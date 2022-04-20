@@ -328,6 +328,8 @@ span {
   text-align: left;
   vertical-align: Top;
   letter-spacing: 3%;
+  color: var(--white);
+  ;
 }
 
 .footer-adress {
@@ -348,4 +350,8 @@ span {
 
 .footer-adress {
   margin-bottom: 10px;
+}
+
+.footer-list .footer-adress>a {
+  color: var(--white);
 }
